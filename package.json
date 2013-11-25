@@ -1,0 +1,10 @@
+{
+  "name": "hello_node",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">=0.10.22"
+  }
+}
